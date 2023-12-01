@@ -31,8 +31,8 @@
 
   ![image](https://github.com/Valamca/Cyclistic_trips/assets/129345721/5b9a116d-7bb8-4cb4-b2c2-2b92489604fc)
 
-  De directorio anterior se obtuvieron los datos que corresponden a cada mes del año 2022 para tener una vista genera de un año completo, ya que el
-  actual aún no lo está.
+  Del directorio anterior se obtuvieron los datos que corresponden a cada mes del año 2022 para tener una vista general de un año completo, ya que el
+  actual, 2023 aún no lo está.
 
   
   :two:  
