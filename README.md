@@ -37,8 +37,9 @@
   
   :two:  
   __________________________________________________________________________________________________________________________________________________________
-  <b> En el segundo archivo se muestra el proceso de análisis realizado en Lenguaje R, es en este mismo dónde se comenzó a realizar la exploración y
-  verdadero análisis de datos para la presente tarea que fue: </b>
+  ## Reporte de Análisis
+  <b> En el segundo archivo se encuentra el reporte de análisis en formato PDF, para ser compartido con los Interesados. Aquí es donde se muestran los hallazgos del análisis, así como las recomendaciones, 
+  fue realizado en Lenguaje R y, dónde se da respuesta a la presente tarea empresarial, misma que fue: </b>
 
    _¿En qué se diferencian los socios anuales y los ciclistas ocasionales con respecto al uso de las bicicletas de Cyclistic?_
 
@@ -52,8 +53,8 @@
   
   3️⃣ 
   __________________________________________________________________________________________________________________________________________________________
-  Para finalizar, el tercer archivo muestra el código R utilizado para desarrollar el análisis, en el se comparten las celdas de codigo para que sean probadas
-  por cualquier persona interesada en el análisis.
+  Para finalizar, el tercer archivo muestra el código R utilizado para desarrollar el análisis, en el se comparten las celdas de código para que sean probadas
+  por cualquier persona interesada en el análisis y con un conocimiento en el lenguaje.
 
   ![image](https://github.com/Valamca/Cyclistic_trips/assets/129345721/6ce445b0-a5a5-4959-be49-22323a9f47d3)
 
